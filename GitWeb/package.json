@@ -1,0 +1,6 @@
+{
+    "name": "GitWeb", "version": "1.0.0", "keywords": [
+        "util", "functional", "server", "client", "browser"
+    ], "author": "Andrés Acevedo", "contributors": [
+    ], "dependencies": {}
+}
